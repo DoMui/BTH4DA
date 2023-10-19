@@ -1,0 +1,9 @@
+E:\ĐỒ ÁN 1\Đồ án 1a\DAL\bin\Debug\DAL.dll
+E:\ĐỒ ÁN 1\Đồ án 1a\DAL\bin\Debug\DAL.pdb
+E:\ĐỒ ÁN 1\Đồ án 1a\DAL\bin\Debug\DTO.dll
+E:\ĐỒ ÁN 1\Đồ án 1a\DAL\bin\Debug\DTO.pdb
+E:\ĐỒ ÁN 1\Đồ án 1a\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\ĐỒ ÁN 1\Đồ án 1a\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\ĐỒ ÁN 1\Đồ án 1a\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\ĐỒ ÁN 1\Đồ án 1a\DAL\obj\Debug\DAL.dll
+E:\ĐỒ ÁN 1\Đồ án 1a\DAL\obj\Debug\DAL.pdb

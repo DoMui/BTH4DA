@@ -1,0 +1,16 @@
+E:\ĐỒ ÁN 1\Đồ án 1a\Đồ án 1a\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\ĐỒ ÁN 1\Đồ án 1a\Đồ án 1a\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+E:\ĐỒ ÁN 1\Đồ án 1a\Đồ án 1a\obj\Debug\Đồ_án_1a.GUI_DangNhap.resources
+E:\ĐỒ ÁN 1\Đồ án 1a\Đồ án 1a\obj\Debug\Đồ_án_1a.GUI_Main.resources
+E:\ĐỒ ÁN 1\Đồ án 1a\Đồ án 1a\obj\Debug\Đồ_án_1a.GUI_SanPham.resources
+E:\ĐỒ ÁN 1\Đồ án 1a\Đồ án 1a\obj\Debug\Đồ_án_1a.Properties.Resources.resources
+E:\ĐỒ ÁN 1\Đồ án 1a\Đồ án 1a\obj\Debug\Đồ_án_1a.Quản_lý_nhân_viên.resources
+E:\ĐỒ ÁN 1\Đồ án 1a\Đồ án 1a\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\ĐỒ ÁN 1\Đồ án 1a\Đồ án 1a\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\ĐỒ ÁN 1\Đồ án 1a\Đồ án 1a\obj\Debug\Đồ_án_1a.GUI_CTHDB1.resources
+E:\ĐỒ ÁN 1\Đồ án 1a\Đồ án 1a\obj\Debug\Đồ_án_1a.GUI_CTHDN.resources
+E:\ĐỒ ÁN 1\Đồ án 1a\Đồ án 1a\obj\Debug\Đồ_án_1a.GUI_HDB.resources
+E:\ĐỒ ÁN 1\Đồ án 1a\Đồ án 1a\obj\Debug\Đồ_án_1a.GUI_HDNhap.resources
+E:\ĐỒ ÁN 1\Đồ án 1a\Đồ án 1a\obj\Debug\Đồ_án_1a.GUI_NhaCC.resources
+E:\ĐỒ ÁN 1\Đồ án 1a\Đồ án 1a\obj\Debug\Đồ_án_1a.GUI_QLKH.resources
+E:\ĐỒ ÁN 1\Đồ án 1a\Đồ án 1a\obj\Debug\Đồ_án_1a.GUI_QLNV.resources
